@@ -1,3 +1,5 @@
+<img src="https://network.bakeli.tech/static/media/logo.2392cc7e.png" width="100" alt="Logo"/>
+
 # Bienvenue! 👋
 
 # Tache de Validation sur Git
