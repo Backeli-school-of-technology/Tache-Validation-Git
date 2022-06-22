@@ -6,7 +6,7 @@
 
 Cette tâche a pour but de tester vos compétences sur Git de ce fait, vous devez integrer le design qui se trouve dans le dossier `/design` . Vous trouverez les deux versions mobile et desktop du design. 
 
-Il y a aussi un fichier `style-guide.md` contenant les toutes les informations dont vous aurez besoin, comme les couleurs et les polices.
+Il y a aussi un fichier `style-guide.md` contenant toutes les informations dont vous aurez besoin, comme les couleurs et les polices.
 
 ## Consignes
 
